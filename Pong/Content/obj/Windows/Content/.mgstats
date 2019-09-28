@@ -1,0 +1,6 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/Natspir/Documents/Code/C#/CyberPong/Pong/Content/Images/BackGround.png","C:/Users/Natspir/Documents/Code/C#/CyberPong/Pong/Content/bin/Windows/Content/Images/BackGround.xnb","TextureProcessor","Texture2DContent",451443,1536085,0,6235755
+"C:/Users/Natspir/Documents/Code/C#/CyberPong/Pong/Content/Images/PongBall.png","C:/Users/Natspir/Documents/Code/C#/CyberPong/Pong/Content/bin/Windows/Content/Images/PongBall.xnb","TextureProcessor","Texture2DContent",12569,16469,0,0202408
+"C:/Users/Natspir/Documents/Code/C#/CyberPong/Pong/Content/Images/PongBall1A.png","C:/Users/Natspir/Documents/Code/C#/CyberPong/Pong/Content/bin/Windows/Content/Images/PongBall1A.xnb","TextureProcessor","Texture2DContent",8251,16469,0,0100233
+"C:/Users/Natspir/Documents/Code/C#/CyberPong/Pong/Content/Images/PongBar.png","C:/Users/Natspir/Documents/Code/C#/CyberPong/Pong/Content/bin/Windows/Content/Images/PongBar.xnb","TextureProcessor","Texture2DContent",2092,16469,0,0149652
+"C:/Users/Natspir/Documents/Code/C#/CyberPong/Pong/Content/Images/PongBar1A2.png","C:/Users/Natspir/Documents/Code/C#/CyberPong/Pong/Content/bin/Windows/Content/Images/PongBar1A2.xnb","TextureProcessor","Texture2DContent",7481,16469,0,0100741
